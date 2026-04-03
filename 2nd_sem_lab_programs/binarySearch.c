@@ -12,7 +12,7 @@ int main(){
     scanf("%d",&key);
     high=n-1;
     low=0;
-    while(low<=high){git
+    while(low<=high){
         int mid=(low+high)/2;
         
         if(num[mid]==key){
