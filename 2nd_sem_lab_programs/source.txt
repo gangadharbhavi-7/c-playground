@@ -1,0 +1,19 @@
+ 
+ThesearesampleStrategies,whichteacherscanusetoacceleratetheattainmentofthevariouscourse
+outcomes. 
+1. Lecturer method (L) need not to be only traditional lecture method, but 
+alternative effectiveteachingmethodscouldbeadoptedtoattaintheoutcomes. 
+2. UseofVideo/Animationtoexplainfunctioningofvariousconcepts. 
+3. Encouragecollaborative(GroupLearning)Learningintheclass. 
+4. AskatleastthreeHOT(HigherorderThinking)questionsintheclass,whichpromotescri
+ticalthinking. 
+5. AdoptProblemBasedLearning(PBL),whichfostersstudents’Analyticalskills,develo
+pdesignthinking skills such as the ability to design, evaluate, generalize, and 
+analyze informationratherthan simplyrecall it. 
+6. IntroduceTopicsinmanifoldrepresentations. 
+7. Showthedifferentwaystosolvethesameproblemandencouragethestudentstocome
+upwiththeirowncreative waystosolve them. 
+8. Discusshoweveryconceptcanbeappliedtotherealworld-andwhenthat'spossible,ithelps 
+to improvethestudents'understanding. 
+9. Use https://pythontutor.com/visualize.html#mode=edit in order to visualize the 
+operations of C Programs 
